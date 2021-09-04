@@ -1,0 +1,2 @@
+[routers]
+ip_adress_here ansible_connection=ansible.netcommon.network_cli ansible_user=username_here ansible_ssh_pass=pass_here
